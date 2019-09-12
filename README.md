@@ -1,4 +1,4 @@
-
+<a href="https://venusyew.github.io/novel/" target="_blank">点此查看效果</a>
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
